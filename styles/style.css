@@ -1,7 +1,7 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
 body {
-  background-color: lightgrey;
+  background-color: rgb(110, 190, 201);
 }
 
 h1 {
@@ -10,4 +10,9 @@ h1 {
 
 h4 {
   text-align: center;
+}
+
+.mt-5 {
+  position: absolute;
+  bottom: 0px;
 }
