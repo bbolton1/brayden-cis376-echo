@@ -19,8 +19,9 @@ h4 {
 }
 
 #arrow {
-  position: relative;
-  top: 29.6875em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
 
 .container {
